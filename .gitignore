@@ -1,0 +1,17 @@
+# Archivos generados y configuraciones locales
+**/.dart_tool/
+**/build/
+**/coverage/
+**/.idea/
+**/.gradle/
+**/ephemeral/
+**/.symlinks/
+**/.flutter-plugins*
+**/local.properties
+**/*.iml
+**/*.log
+**/.DS_Store
+**/key.properties
+**/*.jks
+**/*.keystore
+**/.env
